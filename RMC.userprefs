@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\capt.js">
+    <Files>
+      <File FileName="Assets\Scripts\capt.js" Line="17" Column="31" />
+      <File FileName="Assets\Scripts\capture.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\gestorTable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\destacarTablero.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\pieza.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\funn.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
